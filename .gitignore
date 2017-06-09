@@ -1,0 +1,10 @@
+*.html
+*.meta
+*.so
+*.pyx
+*.pdf
+*.zip
+*.txt
+*.pyc
+*__MACOSX
+*data*
